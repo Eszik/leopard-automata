@@ -1,4 +1,5 @@
 # leopard-automata
-universalv1 : Fichier principal, automates cellulaires pour la modélisation de pelages d'animaux 
+Travail par Thomas Bianco, Solène Cazenave et Akim Viennet
 
-GOF-plashv2 : Jeu de la vie de Conway
+- universalv1 : Fichier principal, automates cellulaires pour la modélisation de pelages d'animaux 
+- GOF-plashv2 : Jeu de la vie de Conway
